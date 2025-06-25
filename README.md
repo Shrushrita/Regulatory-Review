@@ -28,3 +28,8 @@ Review the Regulatory Requirements and Documentations for Medical Devices
 
 
 <span style="font-size:18px;color:#2e74b5">Blue text</span>
+
+
+<div style="background-color:#f8d7da;color:#721c24;padding:10px;border-left:5px solid #f5c6cb;border-radius:3px">
+⚠️ <strong>Warning:</strong> This is a warning message.
+</div>
