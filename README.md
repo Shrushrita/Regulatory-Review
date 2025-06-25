@@ -25,3 +25,6 @@ Review the Regulatory Requirements and Documentations for Medical Devices
 
 
 ![Aptos Styled Text](https://via.placeholder.com/500x100.png?text=This+text+uses+Aptos+font)
+
+
+<span style="font-size:18px;color:#2e74b5">Blue text</span>
