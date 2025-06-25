@@ -7,3 +7,5 @@ Review the Regulatory Requirements and Documentations for Medical Devices
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
+
+<span style="color:blue">Red text</span>
