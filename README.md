@@ -22,3 +22,6 @@ Review the Regulatory Requirements and Documentations for Medical Devices
     <td>Item 2</td>
   </tr>
 </table>
+
+
+![Aptos Styled Text](https://via.placeholder.com/500x100.png?text=This+text+uses+Aptos+font)
