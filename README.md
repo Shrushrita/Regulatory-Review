@@ -88,6 +88,9 @@ Review the Regulatory Requirements and Documentations for Medical Devices
 - ✨ Feature one
 - 🚀 Feature two
 - 🔒 Security feature
+- ✨ Feature one
+- 🚀 Feature two
+- 🔒 Security feature
 
 **Built With:**
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres)
