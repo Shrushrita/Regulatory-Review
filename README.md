@@ -9,13 +9,13 @@
 	</tr>
 
  	<tr>
-		<th style="text-align:center;color:red"></th>
-		<th style="text-align:center;color:red"></th>
+		<td style="text-align:center;color:red"></td>
+		<td style="text-align:center;color:red"></td>
 	</tr>
 
  	<tr>
-		<th style="text-align:center;color:green"></th>
-		<th style="text-align:center;color:green"></th>
+		<td style="text-align:center;color:green"></td>
+		<td style="text-align:center;color:green"></td>
 	</tr>
 </table>
 
